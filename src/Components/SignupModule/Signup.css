@@ -1,0 +1,19 @@
+.Form {
+    padding: 40px;
+    /* background-color: rgba(200, 205, 207, 0.792); */
+    /* background: rgb(238,174,202); */
+    /* background: radial-gradient(circle, rgb(122, 120, 121) 0%, rgb(184, 210, 239) 100%);    */
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+    font-size: 18px;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 8px 5px rgba(0, 0, 0, .4); */
+    /* box-shadow: 0px 0px 12px 0.8px #3474dbb2; */
+    /* box-shadow: 0px 0px 20px 5px rgba(0,0,0,0.15); */
+    box-shadow: 0px 0px 14px 0.3px #0e81ce96;
+    /* min-height: 100px; */
+    text-align: center;
+    }
+
+    
